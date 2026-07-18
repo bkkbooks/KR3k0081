@@ -625,6 +625,7 @@ markers:
   - {type: punctuation, offset: 1248, content: 』, id: KR3k0081_CHANT_091-bkkpn308}
   - {type: punctuation, offset: 1248, content: 」, id: KR3k0081_CHANT_091-bkkpn309}
   - {type: punctuation, offset: 1248, content: (, id: KR3k0081_CHANT_091-bkkpn310}
+  - {type: voice, offset: 1248, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 1252, content: ), id: KR3k0081_CHANT_091-bkkpn311}
   - {type: xml-element, offset: 1252, content: '', id: KR3k0081_CHANT_091-bkkxmlele38, name: p, role: close}
   - {type: xml-element, offset: 1252, content: '', id: KR3k0081_CHANT_091-bkkxmlele39, name: p, role: open}
@@ -1799,6 +1800,7 @@ markers:
   - {type: punctuation, offset: 3520, content: 』, id: KR3k0081_CHANT_091-bkkpn940}
   - {type: punctuation, offset: 3520, content: 」, id: KR3k0081_CHANT_091-bkkpn941}
   - {type: punctuation, offset: 3520, content: (, id: KR3k0081_CHANT_091-bkkpn942}
+  - {type: voice, offset: 3520, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 3523, content: ), id: KR3k0081_CHANT_091-bkkpn943}
   - {type: xml-element, offset: 3523, content: '', id: KR3k0081_CHANT_091-bkkxmlele88, name: p, role: close}
   - {type: xml-element, offset: 3523, content: '', id: KR3k0081_CHANT_091-bkkxmlele89, name: p, role: open}
@@ -1853,6 +1855,7 @@ markers:
   - {type: punctuation, offset: 3622, content: 』, id: KR3k0081_CHANT_091-bkkpn969}
   - {type: punctuation, offset: 3622, content: 」, id: KR3k0081_CHANT_091-bkkpn970}
   - {type: punctuation, offset: 3622, content: (, id: KR3k0081_CHANT_091-bkkpn971}
+  - {type: voice, offset: 3622, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 3626, content: ), id: KR3k0081_CHANT_091-bkkpn972}
   - {type: xml-element, offset: 3626, content: '', id: KR3k0081_CHANT_091-bkkxmlele90, name: p, role: close}
   - {type: xml-element, offset: 3626, content: '', id: KR3k0081_CHANT_091-bkkxmlele91, name: p, role: open}
@@ -2591,4 +2594,4 @@ markers:
   - {type: 'tls:seg', offset: 5085, content: '', id: KR3k0081_CHANT_091-46a.6}
   - {type: xml-element, offset: 5085, content: '', id: KR3k0081_CHANT_091-bkkxmlele126, name: p, role: close}
   back: []
-hash: sha256:131916e71681472f9a8705cdec4e32bec6b08e0b528b8e40347a96b30e540ddc
+hash: sha256:d8b1d29ffb5f447140a64f3c240977d3f6ad19ce95abd3afa19025c1717ab718
